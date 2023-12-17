@@ -1,5 +1,6 @@
-from laba8 import count
+from my_package import count
 
 result = count([1, 2, 3])
 print(result)
+
 
